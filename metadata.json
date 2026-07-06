@@ -1,0 +1,8 @@
+{
+  "name": "Remix: My Habits",
+  "description": "A refined, fully responsive monochrome habit-tracking application with automated local persistence and real-time analytics dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
