@@ -8,9 +8,12 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6-black?style=flat-square&logo=vite)](https://vitejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-black?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat-square&logo=vercel)](https://habit-tracker-five-gray.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-black?style=flat-square)](#license)
 
 *Build better habits, one checkbox at a time — no color, no clutter, just clarity.*
+
+### 🔗 [Try it live →](https://habit-tracker-five-gray.vercel.app/)
 
 </div>
 
@@ -21,6 +24,8 @@
 **My Habits** is a fully responsive, interactive habit-tracking application built around a strict black-and-white design system. Every habit you add gets its own row in a monthly grid — check off the days you follow through, and the app instantly turns that into daily progress charts, an overall completion ring, and a ranked list of your strongest habits.
 
 No sign-up, no server, no noise. Your data lives in your browser and is saved automatically the moment you make a change.
+
+**Live app:** [habit-tracker-five-gray.vercel.app](https://habit-tracker-five-gray.vercel.app/)
 
 ---
 
@@ -48,6 +53,7 @@ No sign-up, no server, no noise. Your data lives in your browser and is saved au
 | Icons | lucide-react |
 | Animation | Motion |
 | Persistence | Browser local storage |
+| Hosting | [Vercel](https://habit-tracker-five-gray.vercel.app/) |
 
 ---
 
@@ -79,6 +85,12 @@ The app will be available at `http://localhost:3000`.
 npm run build
 npm run preview
 ```
+
+### Deployment
+
+The live version is deployed on **Vercel**: [habit-tracker-five-gray.vercel.app](https://habit-tracker-five-gray.vercel.app/)
+
+Any push to `main` can be connected to Vercel for automatic redeployment — no custom server config needed since this is a static Vite build.
 
 ---
 
@@ -130,5 +142,7 @@ Contributions are welcome. If you'd like to add a feature or fix a bug:
 <div align="center">
 
 Built with care by Amoura Kenza aka [akmeonuzraa](https://github.com/akmeonuzraa) at 3am - 06/07/2026
+
+**[🔗 Live Demo](https://habit-tracker-five-gray.vercel.app/)**
 
 </div>
